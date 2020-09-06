@@ -2,8 +2,8 @@
 
 > 🎨 Omni is everywhere [Slack](https://slack.com)
 
-<img src=".github/slack_dark.png" alt="Slack with dark-mode and Omni theme" style="border-radius: 5px"/>
-<img src=".github/slack_light.png" alt="Slack with light-mode and Omni theme" style="border-radius: 5px"/>
+![Screenshot](.github/slack_dark.png)
+![Screenshot](.github/slack_light.png)
 
 ## Installation Instructions
 
@@ -15,4 +15,4 @@
 
 2.  Paste and send it in any Conversation, and click on `"Switch sidebar theme"`:
 
-<img src=".github/install.png" alt="Installation instructions" style="border-radius: 5px"/>
+![Screenshot](.github/install.png)
